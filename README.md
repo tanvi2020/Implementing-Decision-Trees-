@@ -23,10 +23,18 @@ Steps Implemented:
 ## Installation & Requirements
 To run this project, you need the following dependencies:
 ```bash
-pip install numpy matplotlib
+pip insatll numpy matplotlib
+```
 
 ## Usage
 1. Clone this repository:
-   git clone https://github.com/tanvi2020/Implementing-Decision-Trees-.git
-   cd Implementing-Decision-Trees-
-   jupyter notebook "Implementing Decision Trees.ipynb"
+git clone https://github.com/tanvi2020/Implementing-Decision-Trees-.git
+cd Implementing-Decision-Trees-
+
+2. Open and run the Jupyter Notebook:
+jupyter notebook "Implementing Decision Trees.ipynb"
+
+3. Follow the steps inside the notebook to understand how the decision tree is built and evaluated.
+
+
+
