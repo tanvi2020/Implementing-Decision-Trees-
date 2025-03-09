@@ -29,3 +29,5 @@ pip install numpy matplotlib
 1. Clone this repository:
    ```bash
    git clone https://github.com/tanvi2020/Implementing-Decision-Trees-.git
+   cd Implementing-Decision-Trees-
+   jupyter notebook "Implementing Decision Trees.ipynb"
