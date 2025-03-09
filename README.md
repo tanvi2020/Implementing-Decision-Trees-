@@ -23,4 +23,9 @@ Steps Implemented:
 ## Installation & Requirements
 To run this project, you need the following dependencies:
 ```bash
-pip install numpy matplotlib 
+pip install numpy matplotlib
+
+## Usage
+1. Clone this repository:
+   ```bash
+   git clone (https://github.com/tanvi2020/Implementing-Decision-Trees-.git)
