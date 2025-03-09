@@ -2,7 +2,7 @@
 This project demonstrates the implementation of a Decision Tree from scratch using Python.
 
 What is a Decision Tree? 
-A Decision Tree is a supervised learning algorithm used for classification and regression tasks. It works by recursively splitting the dataset based on the feature that results in the best separation of classes. The process continues until a stopping criterion is met.
+    A Decision Tree is a supervised learning algorithm used for classification and regression tasks. It works by recursively splitting the dataset based on the feature that results in the best separation of     classes. The process continues until a stopping criterion is met.
 
 Steps Implemented:
 1. Generating a Synthetic Dataset: A toy dataset with two numerical features (X1, X2) and a binary target variable (0 or 1) is created.
