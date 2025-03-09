@@ -23,4 +23,4 @@ Steps Implemented:
 ## Installation & Requirements
 To run this project, you need the following dependencies:
 ```bash
-pip install numpy matplotlib scikit-learn
+pip install numpy matplotlib 
