@@ -19,3 +19,8 @@ Steps Implemented:
 5. Evaluating the Model: The accuracy of the model is assessed on a test dataset.
 
 6. Visualizing the Decision Boundaries: The decision tree’s classification regions are plotted for better understanding.
+
+## Installation & Requirements
+To run this project, you need the following dependencies:
+```bash
+pip install numpy matplotlib scikit-learn
