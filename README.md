@@ -28,13 +28,15 @@ pip insatll numpy matplotlib
 
 ## Usage
 1. Clone this repository:
+```bash
 git clone https://github.com/tanvi2020/Implementing-Decision-Trees-.git
 cd Implementing-Decision-Trees-
+```
 
-2. Open and run the Jupyter Notebook:
+3. Open and run the Jupyter Notebook:
 jupyter notebook "Implementing Decision Trees.ipynb"
 
-3. Follow the steps inside the notebook to understand how the decision tree is built and evaluated.
+5. Follow the steps inside the notebook to understand how the decision tree is built and evaluated.
 
 
 
