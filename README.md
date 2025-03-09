@@ -40,5 +40,12 @@ jupyter notebook "Implementing Decision Trees.ipynb"
 
 3. Follow the steps inside the notebook to understand how the decision tree is built and evaluated.
 
+Results
+The synthetic dataset is classified into two groups.
+The decision tree is trained on this dataset and correctly identifies patterns.
+Decision boundaries are visualized to show how the model classifies new points.
+
+Conclusion
+This project provides an intuitive understanding of decision trees and how they classify data. It also demonstrates how simple decision rules can be used to separate different classes effectively.
 
 
